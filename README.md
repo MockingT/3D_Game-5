@@ -1,4 +1,5 @@
-# 3D_Game-5
+# 3D_Game-5  
+视频见：http://v.youku.com/v_show/id_XMzU2MTk3NDg0NA==.html?spm=a2hzp.8244740.0.0
 ### 改进飞碟（Hit UFO）游戏  
 - 游戏内容要求：  
 按 adapter模式 设计图修改飞碟游戏  
